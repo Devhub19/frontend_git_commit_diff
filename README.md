@@ -28,6 +28,7 @@ Follow these steps to set up and run the project locally:
 **Start the React Server:**
 
  Run the following command to start the React server:
+
 4. **$ npm start**
 
 The application will be accessible at **http://localhost:3001**
