@@ -1,27 +1,36 @@
 Application for Git Commit Diff React
 This project is a React application for comparing and displaying Git commit differences.
 
-Prerequisites
+**Prerequisites**
 Make sure you have the following installed on your machine:
 
-**Node (version 16.20.2 recommended)
-Git
-Getting Started
-Follow these steps to set up and run the project locally:**
+**Node (version 16.20.2 recommended)**
+**Git**
 
-Clone the Repository:
-**$ git clone https://github.com/techn241/git_commit_diff_react.git**
+**Getting Started**
 
-Navigate to the Project Directory:
-**$ cd git_commit_diff_react**
+Follow these steps to set up and run the project locally:
 
-Install Dependencies: Install the required Node.js packages using npm:
-**$ npm install**
+**Clone the Repository:**
 
-Start the React Server: Run the following command to start the React server:
-**$ npm start**
+1. **$ git clone https://github.com/techn241/git_commit_diff_react.git**
 
-The application will be accessible at http://localhost:3001.
+**Navigate to the Project Directory:**
+
+2. **$ cd git_commit_diff_react**
+
+**Install Dependencies:**
+
+ Install the required Node.js packages using npm:
+
+3. **$ npm install**
+
+**Start the React Server:**
+
+ Run the following command to start the React server:
+4. **$ npm start**
+
+The application will be accessible at **http://localhost:3001**
 
 After completing the final setup for both Ruby on Rails and React, navigate to the following URL:
 
